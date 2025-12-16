@@ -50,7 +50,7 @@ Desktop screens
 
 Clone the repository
 
-git clone https://github.com/your-username/india-weather-app.git
+git clone [https://github.com/your-username/india-weather-app.git](https://github.com/Abhinand-SD/india-weather-app)
 
 
 Navigate to the project folder
